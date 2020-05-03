@@ -1,0 +1,171 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #e8f1f5
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;  /* 100% = 16px = 1em*/
+  color: #fafafa;
+  margin: 50px auto 0 auto;
+
+}
+
+h2{
+  font-family: 'Arvo', serif;
+  font-size: 2.5rem;
+  color: #004a7c
+}
+
+h3{
+  font-family: 'Slabo 27px', serif;
+  font-size: 35px;
+  color: #004a7c;
+  line-height: 1
+}
+
+p {
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  color: #004a7c;
+  }
+
+span{
+  width: 100px
+}
+
+a{
+  font-family: 'Arvo', serif;
+  font-size: 15px;
+  color: #fafafa;
+}
+
+hr{
+  border-style: none;
+  border-bottom: dotted;
+  border-width: 10px;
+  margin: 80px auto 80px auto;
+  width: 10%;
+  height: 10px;
+  color: #888888
+}
+
+.top{
+  background-color: #005691;
+  padding-top: 150px;
+  position: relative;
+}
+
+.middle-container{
+  margin-top: 40px;
+
+}
+
+.bottom-container{
+  background-color: #005691;
+  padding-bottom: 20px;
+  padding-top: 50px;
+}
+
+.cloud1{
+  position: absolute;
+  left: 830px;
+  top: 90px
+  }
+
+.cloud2{
+  position: absolute;
+  left: 250px
+}
+
+.fishing_duck{
+  width: 45%;
+  height: 225px;
+  float: left;
+  margin-right: 30px
+}
+
+.swimming_duck{
+  width: 45%;
+  height: 225px;
+  float: right;
+  margin-left: 30px
+}
+
+.Shakespeare{
+  width: 45%;
+  height: 225px;
+  float: left;
+  margin-right: 30px
+}
+.birdline{
+  color: #fafafa;
+  font-weight: normal;
+  line-height: 200%
+}
+
+.skill-row1{
+  width: 50%;
+  margin: 80px auto 100px auto;
+  text-align: left;
+  line-height: 2
+
+}
+
+.skill-row2{
+  width: 50%;
+  margin: 100px auto 80px auto;
+  text-align: left;
+  line-height: 2
+
+}
+
+.skill-row3{
+  width: 50%;
+  margin: 200px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.contact-me{
+  margin: 100px auto 50px auto;
+}
+
+.queries{
+  margin-bottom: 60px;
+}
+
+.btn{
+  font-family: 'Arvo', serif;
+  font-size: 15px;
+  color: #005691;
+  text-decoration: none;
+}
+
+.btn:hover{
+  color: #888888;
+}
+
+.copyright{
+  color: #fafafa;
+  margin-bottom: 0;
+  margin-top: 30px;
+  font-size: 15px;
+}
+
+.footer-link{
+  margin-left: 30px;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #888888;
+
+}
+
+.GIT{
+  text-decoration: underline;
+}
